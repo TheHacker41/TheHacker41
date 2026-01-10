@@ -27,7 +27,7 @@
         .description h2 {
             margin: 0 0 10px 0;
             font-size: 24px;
-            color: purple;
+            color: lime;
         }
         .description p {
             margin: 0;
@@ -72,15 +72,15 @@
     <body>
     <div class="profile-container">
         <div class="profile-picture">
-            <img src="https://github.com/the-oblyv.png" alt="Profile Picture">
+            <img src="https://github.com/TheHacker41.png" alt="Profile Picture">
         </div>
         <div class="description">
-            <h2>Oblyv</h2>
-            <p>I'm learning TypeScript currently. I make random projects but I'm planning to find something to stick with and keep updating.</p>
+            <h2>TheHacker41</h2>
+            <p>I Develop Cool Websites In My Free Time. Currently Learning Lots Of New Languages</p>
         </div>
         <div class="links">
-            <a href="mailto:cheetopowder.guy@proton.me" target="_blank">Email</a>
-            <a href="https://discord.com/users/1112141576915923156" target="_blank">Discord</a>
+            <a href="mailto:support@infinitecampus.xyz" target="_blank">Email</a>
+            <a href="https://discord.gg/4d9hJSVXca" target="_blank">Discord</a>
         </div>
     </div>
     </body>
@@ -88,34 +88,44 @@
 -->
 <div style="display:none;">
 <p align="center">
-  <img src="https://github.com/the-oblyv.png" alt="Oblyv Profile Picture" width="150" height="150" style="border-radius: 50%;">
+  <img src="https://github.com/TheHacker41.png" alt="Hacker41 Profile Picture" width="150" height="150" style="border-radius: 50%;">
 </p>
-<h1 align="center">I Am Oblyv</h1>
+<h1 align="center">I Am Hacker41</h1>
 
-<h3 align="center">I'm learning TypeScript currently. I make random projects but I'm planning to find something to stick with and keep updating.</h3>
+<h3 align="center">I Develop Websites & Backends In My Free Time</h3>
 
+<p align="center">
+  <a href="https://discord.gg/4d9hJSVXca">
+    <img src="https://img.shields.io/badge/Discord-Join%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Skills
-HTML And CSS
+| Frontend | Backend | Tools & Platforms |
+|----------|---------|------------------|
+| HTML, CSS, JavaScript | Node.js, Python | Git, GitHub, Firebase |
 ---
 
 ## 💼 Projects
 | Project | Description | Link |
 |---------|-------------|------|
-| **Voltage** | Your Favorite Game Site| [View](https://github.com/the-oblyv/voltage.) |
+| **Infinite Campus** | Looks Like Infinite Campus, But With Games And Proxies | [View](https://www.infinitecampus.xyz) |
+| **Canvas** | Looks Like Canvas, But Has Games | [View](https://instructure.space) |
 
 ---
 
 ## 🌱 Currently Learning
-- Typescript & Javascript
+- Advanced Node.js & Express.js
+- TypeScript & Deno
+- Web3 & Smart Contracts
 
 ---
 
 ## 📫 Contact Me
-- Email: cheetopowder.guy@proton.me
-- Discord: atablockguy
+- Email: support@infinitecampus.xyz
+- Discord: Hacker41
 
 ---
 </div>

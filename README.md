@@ -75,7 +75,7 @@
             <img src="https://github.com/TheHacker41.png" alt="Profile Picture">
         </div>
         <div class="description">
-            <h2>TheHacker41</h2>
+            <h2>Hacker41</h2>
             <p>I Develop Cool Websites In My Free Time. Currently Learning Lots Of New Languages</p>
         </div>
         <div class="links">

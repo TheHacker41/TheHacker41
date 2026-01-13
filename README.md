@@ -28,8 +28,13 @@
             margin: 0 0 10px 0;
             font-size: 24px;
             color: lime;
+            transition:0.3s all;
             text-decoration:none;
             cursor:pointer;
+        }
+        .description a:hover {
+            text-decoration:none;
+            color:green;
         }
         .description p {
             margin: 0;
@@ -82,11 +87,20 @@
             <a class="name" href="https://github.com/TheHacker41">
                 Hacker41
             </a>
-            <p>I Develop Cool Websites In My Free Time. Currently Learning Lots Of New Languages</p>
+            <p>
+                I Develop Cool Websites In My Free Time. Currently Learning Lots Of New Languages
+            </p>
         </div>
         <div class="links">
-            <a href="mailto:support@infinitecampus.xyz" target="_blank">Email</a>
-            <a href="https://discord.gg/4d9hJSVXca" target="_blank">Discord</a>
+            <a href="mailto:support@infinitecampus.xyz" target="_blank">
+                Email
+            </a>
+            <a href="https://discord.gg/4d9hJSVXca" target="_blank">
+                Discord
+            </a>
+            <a href="https://github.com/TheHacker41" target="_blank">
+                Github
+            </a>
         </div>
     </div>
     </body>

@@ -24,10 +24,12 @@
             flex-direction: column;
             justify-content: center;
         }
-        .description h2 {
+        .description a {
             margin: 0 0 10px 0;
             font-size: 24px;
             color: lime;
+            text-decoration:none;
+            cursor:pointer;
         }
         .description p {
             margin: 0;
@@ -51,6 +53,7 @@
         }
         .links a:hover {
             background-color: #444;
+            text-decoration:none;
         }
         @media (max-width: 800px) {
             .profile-container {
@@ -59,6 +62,7 @@
             }
             .links {
                 flex-direction: row;
+                text-decoration:none;
                 justify-content: center;
                 flex-wrap: wrap;
                 gap: 10px;
@@ -75,7 +79,9 @@
             <img src="https://github.com/TheHacker41.png" alt="Profile Picture">
         </div>
         <div class="description">
-            <h2>Hacker41</h2>
+            <a class="name" href="https://github.com/TheHacker41">
+                Hacker41
+            </a>
             <p>I Develop Cool Websites In My Free Time. Currently Learning Lots Of New Languages</p>
         </div>
         <div class="links">

@@ -25,6 +25,7 @@
             justify-content: center;
         }
         .description a {
+            border-bottom:1px solid white;
             margin: 0 0 10px 0;
             font-size: 24px;
             color: lime;

@@ -133,7 +133,7 @@
 | Project | Description | Link |
 |---------|-------------|------|
 | **Infinite Campus** | Looks Like Infinite Campus, But With Games And Proxies | [View](https://www.infinitecampus.xyz) |
-| **Canvas** | Looks Like Canvas, But Has Games | [View](https://instructure.space](https://infinitecampus41.github.io/canvas/) |
+| **Canvas** | Looks Like Canvas, But Has Games | [View](https://infinitecampus41.github.io/canvas/) |
 
 ---
 

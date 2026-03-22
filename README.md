@@ -125,20 +125,20 @@
 
 ## 🛠️ Skills
 | Frontend | Backend | Tools & Platforms |
-|----------|---------|------------------|
-| HTML, CSS, JavaScript | Node.js, Python | Git, GitHub, Firebase |
+|----------             |---------|------------------|
+| HTML, CSS, JavaScript | Advanced Node.js, Python | Git, GitHub, Firebase, Render, Cloudflare |
 ---
 
 ## 💼 Projects
 | Project | Description | Link |
 |---------|-------------|------|
 | **Infinite Campus** | Looks Like Infinite Campus, But With Games And Proxies | [View](https://www.infinitecampus.xyz) |
-| **Canvas** | Looks Like Canvas, But Has Games | [View](https://instructure.space) |
+| **Canvas** | Looks Like Canvas, But Has Games | [View](https://instructure.space](https://infinitecampus41.github.io/canvas/) |
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced Node.js & Express.js
+- Express.js & C++
 - TypeScript & Deno
 - Web3 & Smart Contracts
 

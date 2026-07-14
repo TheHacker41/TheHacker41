@@ -96,7 +96,7 @@
             <a href="mailto:support@infinitecampus.xyz" target="_blank">
                 Email
             </a>
-            <a href="https://discord.gg/4d9hJSVXca" target="_blank">
+            <a href="https://discord.infinitecampus.xyz" target="_blank">
                 Discord
             </a>
             <a href="https://github.com/TheHacker41" target="_blank">
@@ -116,7 +116,7 @@
 <h3 align="center">I Develop Websites & Backends In My Free Time</h3>
 
 <p align="center">
-  <a href="https://discord.gg/4d9hJSVXca">
+  <a href="https://discord.infinitecampus.xyz">
     <img src="https://img.shields.io/badge/Discord-Join%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
